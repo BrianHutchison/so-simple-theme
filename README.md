@@ -171,10 +171,6 @@ To make things easier I use LESS to build So Simple Theme's stylesheets. If you 
 @link-color         : #343434;
 ```
 
-## Questions?
-
-Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter [@mmistakes](http://twitter.com/mmistakes) or [file a GitHub Issue](https://github.com/mmistakes/so-simple-theme/issues/new).
-
 ## License
 
 This theme is free and open source software, distributed under the [GNU General Public License](LICENSE) version 2 or later. So feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
